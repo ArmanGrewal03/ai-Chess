@@ -1,4 +1,4 @@
-# Chess (**AI STILL BEING COMPLETED**)
+# Chess Game  (**AI STILL BEING COMPLETED**)
 
 Short description of your project.
 
