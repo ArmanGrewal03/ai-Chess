@@ -19,12 +19,14 @@ A Python-based Chess game designed for two players. Comes with clean graphics an
 
 ## Features
 
-- Different colored boards: green, blue, brown, grey (change with a key press).
-- Sound effects for every move and piece capture in the game.
+- Possible moves for piece shown
+- Last move made also shown
 - Special moves built-in:
   - Castling
   - En Passant
   - Pawn Promotion
+- Different colored boards: green, blue, brown, grey (change with a key press).
+- Sound effects for every move and piece capture in the game.
 - Game detects check occurrences.
 
 ## Usage
