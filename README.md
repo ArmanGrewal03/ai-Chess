@@ -6,6 +6,11 @@ A Python-based Chess game designed for two players. Comes with clean graphics an
   <img src="./images/screenshot.png" alt="Game Screenshot" width="600">
 </div>
 
+<img width="894" alt="green" src="https://github.com/ArmanGrewal03/ai-Chess/assets/143025874/f5570eb8-edb9-4532-8fa0-6cb8fc042319">
+<img width="894" alt="brown" src="https://github.com/ArmanGrewal03/ai-Chess/assets/143025874/7d350b06-68d8-4182-ac48-24abcac2059e">
+<img width="892" alt="blue" src="https://github.com/ArmanGrewal03/ai-Chess/assets/143025874/88265dd7-8741-4cf0-babe-0111a88af9bc">
+<img width="894" alt="black" src="https://github.com/ArmanGrewal03/ai-Chess/assets/143025874/65be6eaa-3fd7-4af1-8ef9-b9edbb894050">
+
 ## Table of Contents
 
 - [Features](#features)
@@ -28,6 +33,12 @@ A Python-based Chess game designed for two players. Comes with clean graphics an
 - Run the code to start the game.
 - To change the color of the board, press 'q' on the keyboard.
 - To restart the game, press 'r' on the keyboard.
+
+## In-Progress:
+The Ai component is still being worked on. Once the Ai is complete, the user will be able to play chess with the user.
+
+The chess game will implement the minimax algorithm in order to play the chess game and make descions. 
+
 
 ## Installation
 
@@ -52,7 +63,3 @@ To get started and play the Chess game on your local machine, follow these steps
   ```plaintext
   python main.py
   ```
-## In-Progress:
-The Ai component is still being worked on. Once the Ai is complete, the chess game will implement the minimax algorithm in order to play the chess game. 
-
-
