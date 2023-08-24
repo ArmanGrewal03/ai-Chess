@@ -2,10 +2,6 @@
 
 A Python-based Chess game designed for two players. Comes with clean graphics and sound built into the game.
 
-<div align="center">
-  <img src="./images/screenshot.png" alt="Game Screenshot" width="600">
-</div>
-
 <img width="894" alt="green" src="https://github.com/ArmanGrewal03/ai-Chess/assets/143025874/f5570eb8-edb9-4532-8fa0-6cb8fc042319">
 <img width="894" alt="brown" src="https://github.com/ArmanGrewal03/ai-Chess/assets/143025874/7d350b06-68d8-4182-ac48-24abcac2059e">
 <img width="892" alt="blue" src="https://github.com/ArmanGrewal03/ai-Chess/assets/143025874/88265dd7-8741-4cf0-babe-0111a88af9bc">
